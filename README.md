@@ -3,9 +3,9 @@
 Awesome Client   
 简洁实用的客户端
 
-![](https://img.shields.io/itunes/v/1314212521.svg) ![](https://img.shields.io/badge/platform-iOS13+-orange.svg)
+![](https://img.shields.io/itunes/v/6443467412.svg) ![](https://img.shields.io/badge/platform-iOS13+-orange.svg)
 
-[![App_Store](./Resource/Download_on_the_App_Store_135x40.svg)](https://itunes.apple.com/cn/app/PPHub%20For%20GitHub/id1314212521?mt=8)
+[![App_Store](./Resource/Download_on_the_App_Store_135x40.svg)](https://apps.apple.com/app/id6443467412)
 
 [![](./Resource/iPhonex_s1.png)](./Resource/iPhonex_b1.png)
 [![](./Resource/iPhonex_s2.png)](./Resource/iPhonex_b2.png)
