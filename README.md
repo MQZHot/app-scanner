@@ -8,7 +8,6 @@ Awesome Client
 [![App_Store](./Resource/Download_on_the_App_Store_135x40.svg)](https://apps.apple.com/app/id6443467412)
 
 [![](./Resource/img_s1.jpg)](./Resource/img_1.jpg)
-[![](./Resource/img_s1.jpg)](./Resource/img_1.jpg)
 [![](./Resource/img_s2.jpg)](./Resource/img_2.jpg)
 [![](./Resource/img_s3.jpg)](./Resource/img_3.jpg)
 [![](./Resource/img_s4.jpg)](./Resource/img_4.jpg)
