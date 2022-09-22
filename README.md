@@ -7,12 +7,12 @@ Awesome Client
 
 [![App_Store](./Resource/Download_on_the_App_Store_135x40.svg)](https://apps.apple.com/app/id6443467412)
 
-[![]](./Resource/img_1.jpg)
-[![](./Resource/img_1.png)](./Resource/img_1.jpg)
-[![](./Resource/img_2.png)](./Resource/img_2.jpg)
-[![](./Resource/img_3.png)](./Resource/img_3.jpg)
-[![](./Resource/img_4.png)](./Resource/img_4.jpg)
-[![](./Resource/img_5.png)](./Resource/img_5.jpg)
+[![](./Resource/img_1.jpg)](./Resource/img_1.jpg)
+[![](./Resource/img_1.jpg)](./Resource/img_1.jpg)
+[![](./Resource/img_2.jpg)](./Resource/img_2.jpg)
+[![](./Resource/img_3.jpg)](./Resource/img_3.jpg)
+[![](./Resource/img_4.jpg)](./Resource/img_4.jpg)
+[![](./Resource/img_5.jpg)](./Resource/img_5.jpg)
 
 ## Contact:
 * Email：bigmeng1228@gmail.com
