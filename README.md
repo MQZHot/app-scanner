@@ -1,4 +1,4 @@
-# HD Scanner 全能扫描宝
+# HD Scanner 扫描全能宝
 
 Awesome Client   
 简洁实用的客户端
